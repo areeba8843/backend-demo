@@ -1,0 +1,25 @@
+{
+  "name": "wt-areeba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areeba8843/areeba-wt-practical.git"
+  },
+  "keywords"
+  "scriptss": { 
+  "start": "node index.js" 
+}: [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/areeba8843/areeba-wt-practical/issues"
+  },
+  "homepage": "https://github.com/areeba8843/areeba-wt-practical#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
